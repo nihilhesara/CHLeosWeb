@@ -465,7 +465,7 @@ nav ul li a:hover {
 .about-text {
   font-family: "Lato", sans-serif;
   text-align: justify;
-  text-align-last: right;
+  text-align-last: left;
   text-justify: inter-word;
   line-height: 1.6rem;
   max-width: 100%;
